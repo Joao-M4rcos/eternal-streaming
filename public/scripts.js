@@ -74,8 +74,22 @@ const data = [
       { name: "https://m.media-amazon.com/images/G/01/digital/video/acquisition/amazon_video_light_on_dark.png", url: "https://www.primevideo.com/", key: "netflix" },
     ]
   },
-
 ]
+
+
+
+/*=== FUNCTIONS ===*/
+var div = document.getElementById("wrapper");
+
+var filters = div.getElementsByClassName("filters");
+
+for (var i = 0; i < filters.length; i++) {
+  filters[i].addEventListener("click", function() {
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
 
 $(document).ready(() => {
   let stream = 'all'
@@ -110,14 +124,6 @@ $(document).ready(() => {
   $('#search').on('keyup', () => { stream = 'all'; update() })
   $('.filters').on('click', function () { stream = $(this).data('value'); update() })
 })
-
-
-
-
-
-
-
-
 
 /*=== SLIDE CAROUSEL ===*/
 var slideIndex = 0

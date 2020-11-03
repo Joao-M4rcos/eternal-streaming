@@ -48,7 +48,7 @@ header {
     max-width: 90%;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     position: relative;
 }
 
@@ -69,8 +69,22 @@ header {
     content: "";
 }
 
-.wrapper input {
+.wrapper span {
     position: absolute;
+    left: 30.5%;
+    margin-top: 50px;
+}
+
+.wrapper input {
+    width: 20%;
+    position: absolute;
+    left: 30%;
+    margin-top: 40px;
+    padding: 10px 0 10px 50px;
+    border-radius: 12px;
+    font-size: 14px;
+    line-height: 24px;
+    outline: none;
 }
 
 .wrapper ul {
@@ -88,6 +102,10 @@ header {
     margin: 0 30px;
     right: 0;
     cursor: pointer;
+}
+
+.filters.active {
+    border-bottom: 2px solid var(--color-red); 
 }
 
 /*=== CARDS ===*/

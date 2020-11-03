@@ -25,23 +25,21 @@
 
     </div>
 
-    <div class="wrapper">
+    <div class="wrapper" id="wrapper">
         <h2>Programming</h2>
-            <input type="text" id="search" style="border: 1px solid black">
+            <input type="text" id="search" placeholder="Search">
+            <span class="material-icons">search</span>          
         <ul>
-            <li class="filters" data-value="all">All</li>
-            <li class="filters" data-value="netflix">Netflix</li>
-            <li class="filters" data-value="primevideo">Prime Video</li>
-            <li class="filters" data-value="hbogo">HBO Go</li>
+            <li class="filters active" data-value="all" id="all">All</li>
+            <li class="filters" data-value="netflix" id="netflix">Netflix</li>
+            <li class="filters" data-value="primevideo" id="primevideo">Prime Video</li>
+            <li class="filters" data-value="hbogo" id="hbogo">HBO Go</li>
         </ul>
 
     </div>
 
-    <section class="cards">
-
-    </section>
+    <section class="cards"></section>
 
     <script src="scripts.js"></script>
-    
 
 {% endblock %}
