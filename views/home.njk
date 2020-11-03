@@ -1,0 +1,48 @@
+{% extends "layout.njk" %}
+
+{% block head %}
+    <title>Eternal Streaming: Home</title>
+{% endblock %}
+
+{% block content %}
+
+    <div class="slideshow-container">
+
+        <div class="mySlides fade">
+            <img src="https://images.alphacoders.com/106/1064921.jpg" style="width:100%">
+        </div>
+
+        <div class="mySlides fade">
+            <img src="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/3e29c4005283ab104fe879446bec3c5db4c22afed7fd513c82a132aba85d9635._RI_V_TTW_.jpg" style="width:100%">
+        </div>
+
+        <div class="mySlides fade">
+            <img src="https://images7.alphacoders.com/518/518303.jpg" style="width:100%">
+        </div>
+
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+    </div>
+
+    <input type="text" id="search" style="border: 1px solid black">
+
+    <div class="wrapper">
+        <h2>Programming</h2>
+        <ul>
+            <li class="filters" data-value="all">All</li>
+            <li class="filters" data-value="netflix">Netflix</li>
+            <li class="filters" data-value="primevideo">Prime Video</li>
+            <li class="filters" data-value="hbogo">HBO Go</li>
+        </ul>
+
+    </div>
+
+    <section class="cards">
+
+    </section>
+
+    <script src="scripts.js"></script>
+    
+
+{% endblock %}
