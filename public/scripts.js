@@ -5,7 +5,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "The Boys",
     type: "Serie",
     streams: [
-      { name: "https://m.media-amazon.com/images/G/01/digital/video/acquisition/amazon_video_light_on_dark.png", url: "https://www.primevideo.com/", key: "primevideo" },
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
     ]
   },
   {
@@ -14,7 +14,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "John Wick",
     type: "Movie",
     streams: [
-      { name: "https://m.media-amazon.com/images/G/01/digital/video/acquisition/amazon_video_light_on_dark.png", url: "https://www.primevideo.com/", key: "primevideo" },
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
     ]
   },
   {
@@ -23,7 +23,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "American Gods",
     type: "Serie",
     streams: [
-      { name: "https://m.media-amazon.com/images/G/01/digital/video/acquisition/amazon_video_light_on_dark.png", url: "https://www.primevideo.com/", key: "primevideo" },
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
     ]
   },
   {
@@ -32,7 +32,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "The Wolf of Wall Street",
     type: "Movie",
     streams: [
-      { name: "https://m.media-amazon.com/images/G/01/digital/video/acquisition/amazon_video_light_on_dark.png", url: "https://www.primevideo.com/", key: "primevideo" },
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
     ]
   },
   {
@@ -41,7 +41,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "Hanna",
     type: "Serie",
     streams: [
-      { name: "https://m.media-amazon.com/images/G/01/digital/video/acquisition/amazon_video_light_on_dark.png", url: "https://www.primevideo.com/", key: "primevideo" },
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
     ]
   },
   {
@@ -50,7 +50,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "The Transporter",
     type: "Movie",
     streams: [
-      { name: "https://m.media-amazon.com/images/G/01/digital/video/acquisition/amazon_video_light_on_dark.png", url: "https://www.primevideo.com/", key: "primevideo" },
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
     ]
   },
   {
@@ -59,7 +59,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "Shrek",
     type: "Movie",
     streams: [
-      { name: "https://m.media-amazon.com/images/G/01/digital/video/acquisition/amazon_video_light_on_dark.png", url: "https://www.primevideo.com/", key: "primevideo" },
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
     ]
   },
   {
@@ -68,7 +68,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "Knives Out",
     type: "Movie",
     streams: [
-      { name: "https://m.media-amazon.com/images/G/01/digital/video/acquisition/amazon_video_light_on_dark.png", url: "https://www.primevideo.com/", key: "netflix" },
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "netflix" },
     ]
   },
   {
