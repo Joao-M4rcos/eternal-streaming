@@ -68,7 +68,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "Knives Out",
     type: "Movie",
     streams: [
-      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "netflix" },
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
     ]
   },
   {
