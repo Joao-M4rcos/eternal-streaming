@@ -1,4 +1,4 @@
-const data = [
+const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
   {
     id: "https://www.primevideo.com/detail/0LTURNRIIF1SFJUX32I7XALS8U/ref=atv_hm_hom_1_c_8pZiqd_2_1",
     image_url: "https://cdn.ome.lt/lEIsF5I8-Hjuc-PVo5CEyI_gooU=/fit-in/1070x750/smart/filer_public/ce/cf/cecf2ee5-ac77-45b2-afd4-65a33b7d44d7/butcher.jpg",
@@ -105,7 +105,7 @@ $(document).ready(() => {
         const card = $(`
         <div class="card">
           <div class="card__image-container">
-          <a href="${i.id}"><img src="${i.image_url}" alt=""></a>
+          <a href="${i.id}" target="_blank"><img src="${i.image_url}" alt=""></a>
           </div>
           <div class="card__content">
             <p>${i.title}</p>
@@ -113,7 +113,7 @@ $(document).ready(() => {
           <div class="card__streams"></div>
         </div>
         `)
-        i.streams.forEach(i => card.find('.card__streams').append(`<a href="${i.url}"><img src="${i.name}" alt=""></a>`))
+        i.streams.forEach(i => card.find('.card__streams').append(`<a href="${i.url}" target="_blank"><img src="${i.name}" alt=""></a>`))
         card.hide()
         $('.cards').append(card)
       })
