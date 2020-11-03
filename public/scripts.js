@@ -72,13 +72,796 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     ]
   },
   {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.0ab4ce67-f372-57b9-660f-dc391009e5e3?ie=UTF8&linkCode=xm2",
+    image_url: "https://upload.wikimedia.org/wikipedia/en/b/b4/Snowpiercer_poster.jpg",
+    title: "Snowpiercer - Expresso do Amanhã",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/0ND5POOAYD6A4THTH7C1TD3TYE/ref=atv_dp_season_select_s1",
+    image_url: "https://f001.backblazeb2.com/file/papocine/2018/11/20181129-mr-robot-papo-de-cinema-cartaz-teaser.jpg",
+    title: "Mr. Robot",
+    type: "Serie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.feb2e251-c736-af6c-cf8e-7af3f1a6f624?ie=UTF8&linkCode=xm2",
+    image_url: "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/HomelandS1DVD.jpg/250px-HomelandS1DVD.jpg",
+    title: "Homeland",
+    type: "Serie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/0MW62FERR0EUTLUFALL6RQJKSU/ref=atv_dp_season_select_s1",
+    image_url: "https://upload.wikimedia.org/wikipedia/en/8/84/Prison_Break_%28miniseries%29.jpg",
+    title: "Prison Break",
+    type: "Serie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.acb0ba61-2e54-1396-22f8-8862feed0574?ie=UTF8&linkCode=xm2",
+    image_url: "https://upload.wikimedia.org/wikipedia/pt/thumb/5/58/Donnie_Darko.jpg/220px-Donnie_Darko.jpg",
+    title: "Donnie Darko",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.20ba5ecf-147f-7e41-81a6-f6b365ffce44?ie=UTF8&linkCode=xm2",
+    image_url: "https://images-ext-2.discordapp.net/external/dgeDTtlxwbVhY6ZRfStwT-Pw5163_yifKK8aJdutyHY/https/images-na.ssl-images-amazon.com/images/I/91uhy-BN14L._AC_SY445_.jpg",
+    title: "Borat Subsequent Moviefilm",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.a8b3cf40-76d5-f4bd-2db4-194ceafbcaeb?ie=UTF8&linkCode=xm2",
+    image_url: "https://upload.wikimedia.org/wikipedia/pt/0/0c/The_Big_Lebowski.jpg",
+    title: "The Big Lebowski",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.d0acfdf0-b256-1441-beed-193a3c981be9?ie=UTF8&linkCode=xm2",
+    image_url: "https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/chameleon/title-movie/244908_angels_and_demons_2009_1400x2100_1.jpg?itok=e_bwZfZX",
+    title: "Angels & Demons",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.ceb23175-00f5-769f-1f81-5dbf9de96351?ie=UTF8&linkCode=xm2",
+    image_url: "https://upload.wikimedia.org/wikipedia/pt/thumb/c/c1/Twilight_Poster.jpg/250px-Twilight_Poster.jpg",
+    title: "Twilight - Crepusculo",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/0FSDQFZPU85S513MSLSSFCR4I6/ref=atv_dp_season_select_s1",
+    image_url: "https://upload.wikimedia.org/wikipedia/pt/f/f2/Two_and_a_Half_Men_%281%C2%AA_temporada%29.jpg",
+    title: "Two and a Half Men - Dois Homens e Meio",
+    type: "series",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.fcb1a8b3-9b88-24bb-e00c-51a73f9a6177?ie=UTF8&linkCode=xm2",
+    image_url: "https://upload.wikimedia.org/wikipedia/en/b/b6/Jumanji_poster.jpg",
+    title: "Jumanji",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.f2b806a7-2081-1a39-a7ab-0e718aa34e88?ie=UTF8&linkCode=xm2",
+    image_url: "https://br.web.img3.acsta.net/pictures/20/01/04/13/51/1192710.jpg",
+    title: "Hunters",
+    type: "series",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.32b7336c-1121-95f8-8c64-816baa75f224?ie=UTF8&linkCode=xm2",
+    image_url: "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    title: "Rush - No Limite da Emoção",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.f2af4e15-3143-6131-4819-0c202e21ea85?ie=UTF8&linkCode=xm2",
+    image_url: "https://images-ext-1.discordapp.net/external/oOZsoucL6MrVt1PxnWYcnDidg6_5W2x4hdxKX9UveYo/https/i.pinimg.com/originals/5e/71/bc/5e71bcf24dd844bb4620ba25a941c905.jpg?width=312&height=462",
+    title: "In Time",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/0MRVHHTAXKS83U44TXDJF07AR2/ref=atv_dp_amz_det_c_Iw3Dma_1_1",
+    image_url: "https://i.pinimg.com/originals/b8/00/1c/b8001cfc098d13b8cdca5a7852a74627.jpg",
+    title: "Jumper",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/0NHG4POTDEILOTU6RBMA27NS8I/ref=atv_dp_amz_det_c_Iw3Dma_1_2",
+    image_url: "https://m.media-amazon.com/images/M/MV5BYzZiZGU0OWItOWNiOC00MThmLWIwZjYtZTA3MjRmM2VlYjk4XkEyXkFqcGdeQXVyMjg2ODE2ODY@._V1_.jpg",
+    title: "Knight and Day",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/0LGZH3ICDHL2EPVFAH39EF9N6O/ref=atv_dp_amz_det_c_Iw3Dma_1_4",
+    image_url: "https://images-na.ssl-images-amazon.com/images/I/51pyukHQojL.jpg",
+    title: "Mr. & Mrs. Smith",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.5ab3cf52-cb50-0182-4282-b8a5c0d0a576?ie=UTF8&linkCode=xm2",
+    image_url: "https://img2.hulu.com/user/v3/artwork/fcc104f4-8914-4ff8-a203-f528d97940f7?base_image_bucket_name=image_manager&base_image=15e94fa3-caaf-4641-8ff2-8ba10bf3ab8b&size=400x600&format=jpeg",
+    title: "Cabin in the Woods",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.ceb28d92-0134-d7cb-d342-2bd489c981fd?ie=UTF8&linkCode=xm2",
+    image_url: "https://m.media-amazon.com/images/M/MV5BMTcxNDI2NDAzNl5BMl5BanBnXkFtZTgwODM3MTc2MjE@._V1_.jpg",
+    title: "Hunger Games",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.38ac5db8-3535-1e00-a31e-5e0428707e30?ie=UTF8&linkCode=xm2",
+    image_url: "https://br.web.img3.acsta.net/medias/nmedia/18/90/69/66/20108900.jpg",
+    title: "Star Trek",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.feba4f5b-b5f6-563f-a4ac-6f9b2fe1a8b1?ie=UTF8&linkCode=xm2",
+    image_url: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTci2dkEsWZBRGV6hcATC1jacUw1MoC-4QCbnANBQ6jGNHcxMOZ",
+    title: "Law & Order",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.2cb4d159-d3fc-40df-bb1a-c331da65ed26?ie=UTF8&linkCode=xm2",
+    image_url: "https://images-na.ssl-images-amazon.com/images/I/716FDDsIrmL._AC_SY550_.jpg",
+    title: "The Fighter -  O vencedor",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/0MF62E5E4RLHES8EP8YUR5QVAI/ref=atv_dp_season_select_s1",
+    image_url: "https://images-ext-2.discordapp.net/external/c_XdN-14gcczbNw8gR7-srRtBbOm7Ehns5vgj39i8Ik/https/i.pinimg.com/originals/a8/fd/f1/a8fdf1de887089fefd6d863faf9c4cad.jpg?width=354&height=462",
+    title: "Mad Men",
+    type: "series",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/0H7JFOPK2QO9WVZ8D9D0J5ZRQN/ref=atv_dp_season_select_s1",
+    image_url: "https://images-na.ssl-images-amazon.com/images/I/81R7QZV5P1L._AC_SY606_.jpg",
+    title: "The Office",
+    type: "series",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.feae592c-3f5c-d601-93a5-59bf634c7f1f?ie=UTF8&linkCode=xm2",
+    image_url: "https://images-ext-2.discordapp.net/external/TRwVV-p_uB1eWPuWIydcEL-4BvM7pWaSKKZqRGYaXPc/https/bancodeseries.tv.br/images/posters/4175.jpg?width=314&height=462",
+    title: "Sons of Anarchy",
+    type: "series",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.f0b88d02-6bec-4fff-e0da-365a3ce69816?ie=UTF8&linkCode=xm2",
+    image_url: "https://img1.hulu.com/user/v3/artwork/bce24897-1a74-48a3-95e8-6cdd530dde4c?base_image_bucket_name=image_manager&base_image=bacf09db-7367-4ec1-9a8c-86bdcfaf67b5&size=400x600&format=jpeg",
+    title: "Little Fires Everywhere",
+    type: "series",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.c4b2488d-91aa-9226-22f1-a7598f147579?ie=UTF8&linkCode=xm2",
+    image_url: "https://images-na.ssl-images-amazon.com/images/I/91OJsdscU9L._AC_SX342_.jpg",
+    title: "Memento - Amnésia",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.14b02470-fb0f-7d69-c65e-b9ab1c235283?ie=UTF8&linkCode=xm2",
+    image_url: "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY1200_CR85,0,630,1200_AL_.jpg",
+    title: "Fight Club - Clube da Luta",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/0PYXNS5RI6WWMXRHDXFA1GONZ0/ref=atv_dp_amz_det_c_Iw3Dma_1_2",
+    image_url: "https://upload.wikimedia.org/wikipedia/en/b/b9/The_Machinist_poster.JPG",
+    title: "The Machinist",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/0T1RKA5DY5Z7YSQ3XG4W1F47CG/ref=atv_dp_amz_det_c_Iw3Dma_1_1",
+    image_url: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSFA95uZKTll-AfrEI1yOB7-yPzK_X1DtCF0pRAsOB224-HtAK",
+    title: "Catch Me If You Can",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.f6b886eb-4d29-2947-7fdb-039689247bfe?ie=UTF8&linkCode=xm2",
+    image_url: "https://images-na.ssl-images-amazon.com/images/I/61VVvaQJJvL._AC_SY741_.jpg",
+    title: "Halloween",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.a8b6ff1b-ee58-c70c-b072-03743c975ee3?ie=UTF8&linkCode=xm2",
+    image_url: "https://i2.wp.com/feminisminindia.com/wp-content/uploads/2018/07/36627198_10156323692555320_934591085542375424_o.jpg?fit=1250%2C1852&ssl=1",
+    title: "Hereditary",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/0JCAA2611DQ7NS7X8XE9XLDYCU/ref=atv_dp_season_select_s1",
+    image_url: "https://static1.purebreak.com.br/articles/6/89/92/6/@/343756--supernatural-696x0-2.jpg",
+    title: "Supernatural",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.c8b04b03-dd42-5062-d927-98699d596beb?ie=UTF8&linkCode=xm2",
+    image_url: "https://images-na.ssl-images-amazon.com/images/I/71G7AybM3qL._AC_SL1500_.jpg",
+    title: "Eternal Sunshine of the Spotless Mind",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.58b680fe-c137-b152-0759-92e0b8135d5d?ie=UTF8&linkCode=xm2",
+    image_url: "https://images-na.ssl-images-amazon.com/images/I/81wqGUXRJKL.jpg",
+    title: "First Man",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.feb86076-5dd7-82bd-2e00-765fd72a3de2?ie=UTF8&linkCode=xm2",
+    image_url: "https://images-na.ssl-images-amazon.com/images/I/81TqkXW2pPL._RI_.jpg",
+    title: "Malcolm X",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.f0af4d2a-26ae-0559-89d5-4c9aa49935b3?ie=UTF8&linkCode=xm2",
+    image_url: "https://i.pinimg.com/originals/84/7c/51/847c518746d5507fa618e94c86a0d95f.jpg",
+    title: "American Psycho",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/amzn1.dv.gti.a0aeab88-19cb-6396-3693-c7e3bd8ee6fd?ie=UTF8&linkCode=xm2",
+    image_url: "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
+    title: "Inglourious Basterds",
+    type: "movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/0Q387S9MM7GIJ0WFZEDTO59RFB/ref=atv_dp_season_select_s1",
+    image_url: "https://images-ext-1.discordapp.net/external/q0-0g-wvfBB30yKftlGGL0gL81FG-BwDGoXjRnk0NhI/https/i.pinimg.com/originals/2f/53/a5/2f53a5b7575de32a3b601649186bfbd6.jpg?width=346&height=462",
+    title: "House",
+    type: "Serie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+    ]
+  },
+
+  /*=== Netflix ===*/
+
+  {
+    id: "https://www.netflix.com/title/20557937",
+    image_url: "https://br.web.img2.acsta.net/medias/nmedia/18/91/08/82/20128877.JPG",
+    title: "Matrix",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+
+  {
+    id: "https://www.netflix.com/title/70177057",
+    image_url: "https://images-ext-1.discordapp.net/external/VtDFTNy4frIIlMxJHIlZJSFKLjpsaJt4-sDcFtmZh6c/https/store-images.s-microsoft.com/image/apps.17295.71901737879009236.c4798d79-4139-4e57-bb07-d252b6ca567c.7d6ae67a-2619-4b8c-9551-00443618ed66?width=308&height=462",
+    title: "The Walking Dead",
+    type: "Serie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+
+  {
+    id: "https://www.netflix.com/title/70079583",
+    image_url: "https://images-na.ssl-images-amazon.com/images/I/91KkWf50SoL._SL1500_.jpg",
+    title: "The Dark Knight - O Cavaleiro das Trevas",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+  {
+    id: "https://www.netflix.com/title/70131314",
+    image_url: "https://img.cinemablend.com/quill/e/b/2/a/4/5/eb2a45f29e17a8d5e40b097b0eff18ebcd86b100.jpg",
+    title: "Inception - A Origem       ",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+  {
+    id: "https://www.netflix.com/title/80100172",
+    image_url: "https://http2.mlstatic.com/quadro-poster-dark-serie-drama-netflix-25x35-D_Q_NP_779074-MLB31037905435_062019-F.webp",
+    title: "Dark",
+    type: "Serie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+
+  {
+    id: "https://www.netflix.com/title/80014749",
+    image_url: "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+    title: "Rick and Morty",
+    type: "Serie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+
+  {
+    id: "https://www.netflix.com/title/80185760",
+    image_url: "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_.jpg",
+    title: "Blade Runner 2049",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/80166369",
+    image_url: "https://m.media-amazon.com/images/M/MV5BOGQ5YTM3YzctOTVmMC00OGIyLWFkZTYtMWYwOWZhMjA2MWMwXkEyXkFqcGdeQXVyMjUyMTE5MA@@._V1_.jpg",
+    title: "Spider-Man: Homecoming",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/80142090",
+    image_url: "https://images-na.ssl-images-amazon.com/images/I/81vwXN%2BvRBL._SL1500_.jpg",
+    title: "Baby Driver",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/70281562",
+    image_url: "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.0-9/82494426_2657734431013194_9139435976320352256_n.jpg?_nc_cat=108&ccb=2&_nc_sid=8bfeb9&_nc_ohc=F2o7S7KQjzcAX9FHh_z&_nc_ht=scontent.fplu4-1.fna&oh=c5b6ebbc5ce326c6ee1dc8437d2930d0&oe=5FC848E5",
+    title: "Brooklyn Nine-Nine",
+    type: "Serie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/80002479",
+    image_url: "https://images-na.ssl-images-amazon.com/images/I/71zr6IVYreL._AC_SY679_.jpg",
+    title: "Peaky Blinders",
+    type: "Serie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/80211991",
+    image_url: "https://br.web.img3.acsta.net/pictures/18/12/31/02/49/2373131.jpg",
+    title: "You",
+    type: "Serie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/70230640",
+    image_url: "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
+    title: "Django Unchained -Django Livre        ",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/11819086",
+    image_url: "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY1200_CR89,0,630,1200_AL_.jpg",
+    title: "The Truman Show",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/70021642",
+    image_url: "https://images-ext-2.discordapp.net/external/5HBGR8GFjKHTCfkN1dkb8o_qsGpKrXT1DzeZ78GWQuo/https/images.justwatch.com/poster/8680442/s592?width=325&height=462",
+    title: " Batman Begins",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/60031303",
+    image_url: "https://3.bp.blogspot.com/-cjtSiBxO4lk/Wm-vzBsbykI/AAAAAAAARKg/fm7odIIUk_gJ9D99SQe8SwBf6hEdWR0jQCLcBGAs/s1600/destrfxdty.jpg",
+    title: "The Matrix Revolutions",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/80024057",
+    image_url: "https://upload.wikimedia.org/wikipedia/pt/d/d5/How_to_Get_Away_with_Murder_temporada_5.jpg",
+    title: "How to Get Away with Murder",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/879522",
+    image_url: "https://images-ext-2.discordapp.net/external/GIiS8sHYHe4mXHPSXLe32I7Tsp1M1q7rEaaRtRGqC1M/https/i.pinimg.com/originals/39/43/0d/39430d3398d67493bddc0a549b673502.jpg?width=326&height=462",
+    title: "Psycho        ",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/70044903",
+    image_url: "https://images-na.ssl-images-amazon.com/images/I/51-U52GRiFL.jpg",
+    title: "Children of Men - Filhos da Esperança",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/70281312",
+    image_url: "https://br.axn.com/sites/br.axn/files/styles/image_386x579/public/ct_series_f_poster_art/the-blacklist.jpg?itok=E_4x6HM4",
+    title: "The Blacklist        ",
+    type: "Serie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/915927",
+    image_url: "https://http2.mlstatic.com/D_NQ_NP_983330-MLB27004842753_032018-O.jpg",
+    title: "Rocky Balboa",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/950149",
+    image_url: "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    title: "Se7en - 7 Pecados Mortais",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/70202589",
+    image_url: "https://i.pinimg.com/originals/1b/88/4b/1b884bffabfe27f2271752c8c9da3f08.jpg",
+    title: "Sherlock",
+    type: "Serie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/81028870",
+    image_url: "https://m.media-amazon.com/images/M/MV5BZmE1NmVmN2EtMjZmZC00YzAyLWE4MWEtYjY5YmExMjUxODU1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    title: "The Devil All the Time        ",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/70095139",
+    image_url: "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    title: "Ilha do medo - Shutter Island",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/1056189",
+    image_url: "https://prodimage.images-bn.com/pimages/0032429335647_p0_v1_s550x406.jpg",
+    title: "Top Gun - Ases Indomáveis",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/60010110",
+    image_url: "https://i.pinimg.com/originals/82/30/40/823040c8eea381c58e07b7815d55cf9d.jpg",
+    title: "Back to the Future - De Volta Para o Futuro",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/80027042",
+    image_url: "https://br.web.img2.acsta.net/pictures/17/09/29/21/15/4233147.jpg",
+    title: "The Flash",
+    type: "Serie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/80177770",
+    image_url: "https://images-na.ssl-images-amazon.com/images/I/61bMkkwpduL._AC_SL1024_.jpg",
+    title: "It a Coisa",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/70143836",
+    image_url: "https://images-na.ssl-images-amazon.com/images/I/51fWOBx3agL._AC_UL600_SR396,600_.jpg",
+    title: "Breaking Bad",
+    type: "Serie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/60020823",
+    image_url: "https://images-na.ssl-images-amazon.com/images/I/51XQehJzDzL._AC_SY445_.jpg",
+    title: "Scooby-Doo",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/70100721",
+    image_url: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3b327617071869.562b543ac6203.jpg",
+    title: "Tropa de Elite",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/70207663",
+    image_url: "https://m.media-amazon.com/images/M/MV5BMTczNDk4NTQ0OV5BMl5BanBnXkFtZTcwNDAxMDgxNw@@._V1_.jpg",
+    title: "The Girl with the Dragon Tattoo",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/70213514",
+    image_url: "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
+    title: "The Dark Knight Rises",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/80058397",
+    image_url: "https://i.etsystatic.com/10683147/r/il/2061da/1861099727/il_570xN.1861099727_e9g3.jpg",
+    title: "Creed: O Legado de Rocky",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/60023071",
+    image_url: "https://m.media-amazon.com/images/M/MV5BOTliZjI0NTItZTQzZC00ZjBiLTgzNTItNmI3NTJkMTJhMzhiXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg",
+    title: "Minority Report",
+    type: "Serie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/80081793",
+    image_url: "https://images-na.ssl-images-amazon.com/images/I/911RR0tzL2L._AC_SL1500_.jpg",
+    title: "Batman v Superman: Dawn of Justice",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  {
+    id: "https://www.netflix.com/title/70155547",
+    image_url: "https://images-ext-2.discordapp.net/external/5kVQ60_jUTrr7K6B4K5BxIAoKd-hVjIP1maMo9e7wss/%3Ftoken%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xMzc0IiwicGF0aCI6IlwvZlwvOTYzYjU5NTYtNDU4Ny00MTA5LTlmMTgtZmQzMjU2N2FhMzMxXC9kMmQybGYzLWUzYjI4MGQ3LWRlNDctNDJjYy1iMGQyLTRlNTEyMTJiOWZmMS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.09fcHrxPhtPeZBRtTYZB_Qv7oIXwVMCaN41l9qv3M_4/https/images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/963b5956-4587-4109-9f18-fd32567aa331/d2d2lf3-e3b280d7-de47-42cc-b0d2-4e51212b9ff1.jpg/v1/fill/w_1024%2Ch_1374%2Cq_75%2Cstrp/spongebob_spring_cover_by_shermcohen_d2d2lf3-fullview.jpg?width=344&height=462",
+    title: "Sponge Bob",
+    type: "Serie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+  {
+    id: "https://www.netflix.com/title/80013871",
+    image_url: "https://www.limitedruns.com/media/cache/a0/0e/a00e164c7d3c224ac5520683aa3a47ab.jpg",
+    title: "American Sniper",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+  {
+    id: "https://www.netflix.com/title/60034587",
+    image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNrsJ86g1jzwU9cFeEZUqx7u6g4HHQH35Ho_zmmVInQzBsOyw65V3Go5IfcFoFdiaK9bDPGmIXWqMX1-qF56gMlXP1u4Zt-O9hRghVP1A&usqp=CAU&ec=45714080",
+    title: "As Branquelas ",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+  {
+    id: "https://www.netflix.com/title/80999009",
+    image_url: "https://lojasaraiva.vteximg.com.br/arquivos/ids/12115335/1007297330.jpg?v=637142271112800000",
+    title: "Creed II",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+  {
+    id: "https://www.netflix.com/title/80111501",
+    image_url: "https://images-na.ssl-images-amazon.com/images/I/81ZVwqCfk6L._AC_SL1500_.jpg",
+    title: "Animais Fantásticos",
+    type: "movie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+  {
+    id: "https://www.netflix.com/title/80064516",
+    image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRb-sdgjVn__rVf2Vo1NNr0KwAnaoH_BISBvZg4Y7Ey7jBl403u2J10GiysbtOICtqiatFyOkPba1pLZGSJslsaoNwtO8oQyzN1IAr2Tns&usqp=CAU&ec=45714080",
+    title: "The Revenant - O Regresso",
+    type: "Serie",
+    streams: [
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+    ]
+  },
+
+  /*=== HBO GO ===*/
+
+  {
     id: "https://www.hbogo.com.br/content/78238a03-2b44-4c97-bda2-d803065b49aa",
     image_url: "https://br.web.img3.acsta.net/pictures/19/03/21/16/15/4239577.jpg",
     title: "Game of Thrones",
     type: "serie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -88,7 +871,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "serie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -98,7 +881,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -108,7 +891,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "serie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -118,7 +901,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "serie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -128,7 +911,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "serie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -138,7 +921,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -148,7 +931,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -158,7 +941,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -168,7 +951,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "series",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -178,7 +961,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -188,7 +971,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "series",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -198,7 +981,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "series",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -208,7 +991,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "series",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -218,7 +1001,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "series",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -228,7 +1011,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "series",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -238,7 +1021,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "series",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -248,7 +1031,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "series",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -258,7 +1041,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -268,7 +1051,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -278,7 +1061,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -288,7 +1071,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "series",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -298,7 +1081,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "series",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -308,7 +1091,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "series",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -318,7 +1101,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -328,7 +1111,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -338,7 +1121,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -348,7 +1131,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -358,7 +1141,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -368,7 +1151,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -378,7 +1161,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -388,7 +1171,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -398,7 +1181,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -408,7 +1191,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -418,7 +1201,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "series",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -428,7 +1211,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "series",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -438,7 +1221,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "series",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -448,7 +1231,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "series",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -458,7 +1241,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "series",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -468,7 +1251,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "series",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -478,7 +1261,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "series",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -488,7 +1271,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "series",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -498,7 +1281,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "series",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -508,7 +1291,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "series",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -518,7 +1301,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -528,7 +1311,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -538,7 +1321,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -548,7 +1331,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
   {
@@ -558,7 +1341,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "movie",
     streams: [
       { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
-  
+
     ]
   },
 ]
@@ -571,7 +1354,7 @@ var div = document.getElementById("wrapper");
 var filters = div.getElementsByClassName("filters");
 
 for (var i = 0; i < filters.length; i++) {
-  filters[i].addEventListener("click", function() {
+  filters[i].addEventListener("click", function () {
     var current = document.getElementsByClassName("active");
     current[0].className = current[0].className.replace(" active", "");
     this.className += " active";
