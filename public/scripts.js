@@ -5,10 +5,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "The Boys",
     type: "Serie",
     streams: [
-      /*=== QUANDO HOUVER MAIS DE UM SERVIÇO, ADICIONA-LO AQUI, APÓS A VÍRGULA, ABRINDO E FECHANDO CHAVES ===*/
       { name: "https://m.media-amazon.com/images/G/01/digital/video/acquisition/amazon_video_light_on_dark.png", url: "https://www.primevideo.com/", key: "primevideo" },
-      /*=== EXEMPLO ===*/
-      /*=== { name: "https://m.media-amazon.com/images/G/01/digital/video/acquisition/amazon_video_light_on_dark.png", url: "https://www.primevideo.com/" }, ===*/
     ]
   },
   {
@@ -72,6 +69,15 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     type: "Movie",
     streams: [
       { name: "https://m.media-amazon.com/images/G/01/digital/video/acquisition/amazon_video_light_on_dark.png", url: "https://www.primevideo.com/", key: "netflix" },
+    ]
+  },
+  {
+    id: "https://www.hbogo.com.br/content/78238a03-2b44-4c97-bda2-d803065b49aa",
+    image_url: "https://br.web.img3.acsta.net/pictures/19/03/21/16/15/4239577.jpg",
+    title: "Game of Thrones",
+    type: "Serie",
+    streams: [
+      { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
     ]
   },
 ]
