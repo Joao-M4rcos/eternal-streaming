@@ -140,8 +140,7 @@ header {
 }
 
 .card__content p {
-    font-size: 18px;
-    line-height: 28px;
+    font-size: 14px;
 }
 
 .card__streams {
