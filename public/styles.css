@@ -31,6 +31,7 @@ header {
     left: 0;
     width: 120px;
     height: 90px;
+    margin-right: 10%;
 }
 
 .navbar a {
@@ -41,14 +42,6 @@ header {
     text-decoration: none;
     color: #111;
     font-weight: bold;
-}
-
-.navbar span {
-    position: absolute;
-    top: 45%;
-    right: 0;
-    color: #111;
-    cursor: pointer;
 }
 
 .wrapper {
@@ -74,6 +67,10 @@ header {
     width: 70px;
     background: var(--color-red);
     content: "";
+}
+
+.wrapper input {
+    position: absolute;
 }
 
 .wrapper ul {
