@@ -29,8 +29,8 @@ header {
 
 .navbar img { 
     left: 0;
-    width: 150px;
-    height: 120px;
+    width: 30%;
+    height: 20%;
 }
 
 .navbar a {
@@ -42,7 +42,8 @@ header {
     color: #111;
     font-weight: bold;
     text-transform: uppercase;
-    
+    transform: scale(1, 2);
+    letter-spacing: 3px;
 }
 
 .wrapper {
@@ -72,14 +73,14 @@ header {
 
 .wrapper span {
     position: absolute;
-    left: 30.5%;
+    left: 32.5%;
     margin-top: 20px;
 }
 
 .wrapper input {
-    width: 31%;
+    width: 36.5%;
     position: absolute;
-    left: 30%;
+    left: 31.8%;
     margin-top: 10px;
     padding: 10px 0 10px 50px;
     border-radius: 12px;
