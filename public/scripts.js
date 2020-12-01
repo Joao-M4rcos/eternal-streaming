@@ -59,7 +59,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "Shrek",
     type: "Movie",
     streams: [
-      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo", kid: "kids", release: "release" },
     ]
   },
   {
@@ -167,7 +167,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "Jumanji",
     type: "movie",
     streams: [
-      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo", kid: "kids", release: "release" },
     ]
   },
   {
@@ -422,7 +422,25 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
       { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo" },
     ]
   },
-
+  {
+    id: "https://www.primevideo.com/detail/0Q387S9MM7GIJ0WFZEDTO59RFB/ref=atv_dp_season_select_s1",
+    image_url: "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_UY1200_CR73,0,630,1200_AL_.jpg",
+    title: "Hacksaw Ridge",
+    type: "Movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo", release: "release"},
+    ]
+  },
+  {
+    id: "https://www.primevideo.com/detail/0Q387S9MM7GIJ0WFZEDTO59RFB/ref=atv_dp_season_select_s1",
+    image_url: "https://br.web.img3.acsta.net/pictures/20/02/03/18/49/4301079.jpg",
+    title: "Cucuy The Boogeyman",
+    type: "Movie",
+    streams: [
+      { name: "https://store-images.s-microsoft.com/image/apps.27073.14618985536919905.dee6fc2f-7908-497d-8aa7-395befb36297.85cc91ac-8477-4705-bc24-4196d5bf85a2?mode=scale&q=90&h=200&w=200&background=%230078D7", url: "https://www.primevideo.com/", key: "primevideo", release: "release"},
+    ]
+  },
+  
   /*=== Netflix ===*/
 
   {
@@ -503,7 +521,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "Spider-Man: Homecoming",
     type: "movie",
     streams: [
-      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix", kid: "kids", release: "release" },
     ]
   },
 
@@ -523,7 +541,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "Brooklyn Nine-Nine",
     type: "Serie",
     streams: [
-      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix", kid: "kids", release: "release" },
     ]
   },
 
@@ -563,7 +581,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "The Truman Show",
     type: "movie",
     streams: [
-      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix", kid: "kids", release: "release" },
     ]
   },
 
@@ -573,7 +591,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: " Batman Begins",
     type: "movie",
     streams: [
-      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix", kid: "kids", release: "release" },
     ]
   },
 
@@ -693,7 +711,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "Back to the Future - De Volta Para o Futuro",
     type: "movie",
     streams: [
-      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix", kid: "kids", release: "release" },
     ]
   },
 
@@ -733,7 +751,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "Scooby-Doo",
     type: "movie",
     streams: [
-      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix", kid: "kids", release: "release" },
     ]
   },
 
@@ -793,7 +811,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "Batman v Superman: Dawn of Justice",
     type: "movie",
     streams: [
-      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix", kid: "kids", release: "release" },
     ]
   },
 
@@ -803,7 +821,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "Sponge Bob",
     type: "Serie",
     streams: [
-      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix", kid: "kids", release: "release" },
     ]
   },
   {
@@ -821,7 +839,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "As Branquelas ",
     type: "movie",
     streams: [
-      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix", kid: "kids", release: "release" },
     ]
   },
   {
@@ -839,7 +857,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "Animais Fantásticos",
     type: "movie",
     streams: [
-      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix" },
+      { name: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png", url: "https://www.netflix.com/browse", key: "netflix", kid: "kids", release: "release" },
     ]
   },
   {
@@ -960,7 +978,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "Detective Pikachu",
     type: "movie",
     streams: [
-      { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
+      { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo", kid: "kids", release: "release" },
 
     ]
   },
@@ -1310,7 +1328,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "Speed Racer",
     type: "movie",
     streams: [
-      { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
+      { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo", kid: "kids", release: "release" },
 
     ]
   },
@@ -1320,7 +1338,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "Dragon Ball Z: Battle Of Gods",
     type: "movie",
     streams: [
-      { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
+      { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo", kid: "kids", release: "release" },
 
     ]
   },
@@ -1340,7 +1358,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "Perfect Weapon",
     type: "movie",
     streams: [
-      { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo", kid: "kids", release: "release" },
+      { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo", },
 
     ]
   },
