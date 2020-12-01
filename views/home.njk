@@ -7,9 +7,16 @@
 {% block content %}
 
     <div class="wrapper" id="wrapper">
-        <h2>Library</h2>
+        <h2>Library /</h2>
             <input type="text" id="search" placeholder="Search">
-            <span class="material-icons">search</span>          
+            <span class="material-icons">search</span> 
+        <div class="left-filters">
+        <ul>
+            <li class="filters" data-value="release" id="release">Releases</li>
+            <li class="filters" data-value="kids" id="kids">Kids</li>
+        </ul>   
+        </div>
+         
         <ul>
             <li class="filters active" data-value="all" id="all">All</li>
             <li class="filters" data-value="netflix" id="netflix">Netflix</li>

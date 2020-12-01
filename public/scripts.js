@@ -1340,7 +1340,7 @@ const data = [ /*=== ACRESCENTAR DADOS AQUI DENTRO ===*/
     title: "Perfect Weapon",
     type: "movie",
     streams: [
-      { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo" },
+      { name: "https://lh3.googleusercontent.com/-oFXfg8AkplE7Igj-yK_o_wdf-DzovXTEn2-2IUzEoEd5ByP1QHfrBlfd7hm8qldlQ", url: "https://www.hbogo.com.br/home", key: "hbogo", kid: "kids", release: "release" },
 
     ]
   },
@@ -1368,7 +1368,8 @@ $(document).ready(() => {
     $('.cards').html('')
     const arr = data
       .filter(f => filter.length === 0 || new RegExp(`.*${filter}.*`, 'i').exec(f.title) || f.streams.find(f => new RegExp(`.*${filter}.*`, 'i').exec(f.key)))
-      .filter(f => stream === 'all' || f.streams.find(f => f.key === stream))
+      .filter(f => stream === 'all' || f.streams.find(f => f.key === stream) || f.streams.find(f => f.kid === stream) || f.streams.find(f => f.release === stream))
+      
     if (arr.length === 0) $('.cards').append(`<h3>No movies found</h3>`)
     else {
       arr.forEach(i => {

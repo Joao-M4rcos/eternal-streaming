@@ -102,8 +102,16 @@ header {
     list-style: none;
     display: inline-block; 
     margin: 0 30px;
-    right: 0;
     cursor: pointer;
+}
+
+.left-filters ul {
+    position: absolute;
+    margin-right: 80%;
+}
+
+.left-filters ul {
+    font-weight: bold;
 }
 
 .filters.active {
